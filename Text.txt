@@ -1,0 +1,1 @@
+Detta är en textfil som heter test.txt. Den innehåller inget vettigt. 
